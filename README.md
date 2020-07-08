@@ -9,4 +9,4 @@ pieView.textArray = @[@"25%",@"25%",@"25%",@"25%"].mutableCopy;
 [pieView strokePath];
 [self.view addSubview:pieView];
 ```
-![]()
+![](https://github.com/A1129434577/LBAnnularPieView/blob/master/LBAnnularPieView.png?raw=true)
